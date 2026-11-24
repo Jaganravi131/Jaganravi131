@@ -7,7 +7,7 @@ I am a final-year B.E. Mechanical & Automation Engineering student , transitioni
 - 🔭 **Currently building:** [F.R.I.D.A.Y.](https://github.com) — a local-first, voice-enabled agent runtime with deterministic policy gates and bi-temporal memory.
 - 🌱 **Focused on:** Low-latency backend architecture, LLM orchestration, real-time streaming, and high-concurrency APIs.
 - 💼 **Open to:** Backend Engineering & Applied AI/ML Internships (Immediate) and Full-Time SWE roles (2027) in Chennai, Bengaluru, or Remote.
-- 🌐 **Portfolio:** [portfolio-ygig.vercel.app](https://vercel.app) | **LinkedIn:** [://linkedin.comin/jagan-babu-r/](https://www.linkedin.com/in/jagan-babu-r/) | **Email:** [jaganravi131@gmail.com](mailto:jaganravi131@gmail.com)
+- 🌐 **Portfolio:** [portfolio-ygig.vercel.app](https://vercel.app) | **LinkedIn:** [linkedin.com/jagan-babu-r/](https://www.linkedin.com/in/jagan-babu-r/) | **Email:** [jaganravi131@gmail.com](mailto:jaganravi131@gmail.com)
 
 ---
 
