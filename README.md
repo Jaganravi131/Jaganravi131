@@ -2,7 +2,7 @@
 
 **Backend & Applied AI Engineer** | Building reliable, low-latency systems and deterministic agent runtimes.
 
-I am a final-year B.E. Mechanical & Automation Engineering student at Sri Sairam Engineering College, Chennai (2027), transitioning from industrial automation (SCADA/PLC telemetry) into distributed backend engineering and production AI systems. My engineering philosophy is simple: **define the failure case first, then build the feature.**
+I am a final-year B.E. Mechanical & Automation Engineering student , transitioning from industrial automation (SCADA/PLC telemetry) into distributed backend engineering and production AI systems. My engineering philosophy is simple: **define the failure case first, then build the feature.**
 
 - 🔭 **Currently building:** [F.R.I.D.A.Y.](https://github.com) — a local-first, voice-enabled agent runtime with deterministic policy gates and bi-temporal memory.
 - 🌱 **Focused on:** Low-latency backend architecture, LLM orchestration, real-time streaming, and high-concurrency APIs.
